@@ -69,6 +69,7 @@
 
 > Click "Store" and "Deliver exploit to victim".
 
+![Screenshot 2024-04-17 124534](https://github.com/udayk01/Web-Security/assets/52235763/b940ce02-f6a7-453d-a74f-f81d5591b0cc)
 
 > Lab Solved
 
